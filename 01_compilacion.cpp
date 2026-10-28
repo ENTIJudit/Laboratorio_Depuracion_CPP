@@ -8,5 +8,5 @@ int main() {
         std::cout << "Estado: ATENCION\n";
     }
 
-    return 0cambio
+    return 0
 }
